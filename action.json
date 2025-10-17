@@ -1,6 +1,6 @@
 {
   "step": 0,
-  "decision": 0,
+  "decision": 1,
   "message": "Player 1 played 1\nPlayer 2 played 0.",
   "history": null
 }
